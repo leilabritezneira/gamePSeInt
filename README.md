@@ -9,6 +9,7 @@
 <br> During the first semester, we start to developer with PSeInt, a free multi-platform educational software. Personally, I wanted to practice in addition to the university on my own, this is the reason why I made this game with PSeInt.
 <br>
 <br> 🖥️ Used technology: PSeInt
+<br> <br> 
 
 🗒️ _Summary: Hangman is a game that can be played by one player, against another player or between several players._
 
@@ -19,6 +20,7 @@
 <br> Durante el primer semestre, hemos empezado a desarrollar con PSeInt, un software educativo gratuito multiplataforma. Personalmente, quería practicar por mi misma además de la universidad, esta es la razón por la cual realicé este juego con PSeInt.
 <br> 
 <br> 🖥️ Tecnología usada: PSeInt
+<br> <br> 
 
 🗒️ _Resumen: El ahorcado es un juego que puede ser jugado por un jugador, contra otro jugador o entre varios jugadores._
 
@@ -29,5 +31,6 @@
 <br>Au cours du première semestre, nous avons commencé à développer avec PSeInt, un software éducatif multiplateforme gratuit. Personnellement, je voulais pratiquer par moi-même en plus de l'université, c'est la raison pour laquelle j'ai réalisé ce jeu avec PSeInt.
 <br>
 <br> 🖥️ Technologie utilisée : PSeInt
+<br> <br> 
 
 🗒️ _Résumé: Le pendu est un jeu qui peut être joué par un joueur, contre un autre joueur ou entre plusieurs joueurs._
